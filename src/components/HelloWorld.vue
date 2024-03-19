@@ -65,5 +65,5 @@ const handleClickPlay = () => {
       :src="url"
     ></m-video-player>
   </div>
-  <p class="text-orange-700 my-20">111111111111</p>
+  <p class="text-orange-700 my-20">Test Video Player</p>
 </template>
