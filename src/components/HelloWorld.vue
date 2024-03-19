@@ -3,11 +3,13 @@ import { ref } from 'vue';
 
 // const url = "https://dan-le-blob-cdn-production.glb.edgio.link/migrated-assets/asset-a6974600-348d-4d12-8633-7bb7b8f5d785/test-by-ngan.m3u8"
 const url =
-  'https://dan-le-blob-cdn-production.glb.edgio.link/migrated-assets/asset-a6974600-348d-4d12-8633-7bb7b8f5d785/test-by-ngan.m3u8';
+  'https://dan-le-blob-cdn-production.glb.edgio.link/encoded-assets/massage-manual-device-pancreas-points/massage-manual-device-pancreas-points.m3u8';
+//   const url =
+//   'https://dan-le-blob-cdn-production.glb.edgio.link/migrated-assets/asset-a6974600-348d-4d12-8633-7bb7b8f5d785/test-by-ngan.m3u8';
 const thumnailPreviewUrl =
   'https://image.mux.com/VZtzUzGRv02OhRnZCxcNg49OilvolTqdnFLEqBsTwaxU/storyboard.vtt';
 const captionUrl =
-  'https://dan-le-blob-cdn-production.glb.edgio.link/migrated-assets/asset-a6974600-348d-4d12-8633-7bb7b8f5d785/transcript.vtt';
+  'https://dan-le-blob-cdn-production.glb.edgio.link/encoded-assets/massage-manual-device-pancreas-points/transcript.vtt';
 const thumnailUrl =
   'https://image.mux.com/VZtzUzGRv02OhRnZCxcNg49OilvolTqdnFLEqBsTwaxU/thumbnail.webp?time=268&width=1200';
 const isPlayVideo = ref(false);
